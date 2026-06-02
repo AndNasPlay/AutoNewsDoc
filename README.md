@@ -12,8 +12,7 @@ The application is designed to retrieve information about the news feed via API 
 
 ## Features
 Swift Programming Language 
-Architecture: MVVM + Combine 
-UICollectionView + CompositionalLayout + DiffableDataSource UIKit, URLSession, async / await
+Architecture: MVVM + Combine, UICollectionView + CompositionalLayout + DiffableDataSource UIKit, URLSession, async / await
 
 ## Requirements
 
